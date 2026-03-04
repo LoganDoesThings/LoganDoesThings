@@ -1,40 +1,54 @@
-<h1 align="center">Hi 👋, I'm LoganDoesThings</h1>
-<h3 align="center">Passionate IT Specialist for 5+ Years</h3>
+# Hi, I'm Logan Motta (LoganDoesThings) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logandoesthings&label=Profile%20views&color=0e75b6&style=flat" alt="logandoesthings" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logandoesthings" alt="logandoesthings" /></a> </p>
-
-- 🔭 I’m currently working on **finding a new job!**
-
-- 🌱 I’m currently learning **CSS and FrontEnd Work**
-
-- 👯 I’m looking to collaborate on **anything anyone needs help with**
-
-- 🤝 I’m looking for help with **anything someone can teach me**
-
-- 👨‍💻 All of my projects are available at [https://github.com/logandoesthings](https://github.com/logandoesthings)
-
-- 📝 I regularly write articles on [https://logandoesthings.social](https://logandoesthings.social)
-
-- 💬 Ask me about **building computers!**
-
-- 📫 How to reach me **logan.motta@icloud.com**
-
-- 📄 Know about my experiences [https://logandoesthings.social/cv.html](https://logandoesthings.social/cv.html)
-
-- ⚡ Fun fact **3 Years of high school learning Electrical**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/logan motta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan motta" height="30" width="40" /></a>
-<a href="https://instagram.com/logan_does_thingss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="logan_does_thingss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/logandoesthingss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="logandoesthingss" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/Bug%20Hunter-4ECDC4?style=for-the-badge&logo=hackerone&logoColor=white" alt="Bug Hunter" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20&%20Physics-45B7D1?style=for-the-badge&logo=linux&logoColor=white" alt="Cybersecurity & Physics" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logandoesthings&show_icons=true&locale=en&layout=compact" alt="logandoesthings" /></p>
+### 🚀 About Me
+I'm a versatile **AI Engineer**, **Bug Hunter**, and **IT Specialist** with over 5 years of freelance experience. Currently, I'm pursuing a **Bachelors in Cybersecurity** at the University of Phoenix while diving deep into **Physics** at Tunxis Community College. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logandoesthings&show_icons=true&locale=en" alt="logandoesthings" /></p>
+I'm a generalist at heart—equally comfortable building high-performance PC rigs, writing Python scripts for AI bots, or designing modern frontend experiences.
+
+- 🔍 **Currently Focus:** Mastering CSS, Frontend development, and seeking new professional opportunities.
+- 🤖 **Project Spotlight:** Created **Jan0.1**, an offline, self-hosted ChatGPT-style bot.
+- ⚡ **Fun Fact:** I spent 3 years studying Electrical work, so I can wire your house and your servers.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend/Cloud** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Tools/DevOps** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Creative/3D** | ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white) |
+
+---
+
+### 📊 Education & Certifications
+- **University of Phoenix:** Bachelors in Cybersecurity (Ongoing)
+- **Tunxis Community College:** Associates in Physics (Ongoing)
+- **EC Goodwin Technical:** Electrical Studies
+- **Plainville High School:** Physics & High School Diploma
+- 📜 **Certifications:** OSHA-10 Certified
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://logandoesthings.social"><img src="https://img.shields.io/badge/Website-logandoesthings.social-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/LoganDoesThings"><img src="https://img.shields.io/badge/LinkedIn-LoganDoesThings-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/LoganDoesThings"><img src="https://img.shields.io/badge/GitHub-LoganDoesThings-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Passionate about the intersection of physics, security, and AI."</i>
+</p>
