@@ -42,7 +42,7 @@ I'm a generalist at heart—equally comfortable building high-performance PC rig
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://logandoesthings.social"><img src="https://img.shields.io/badge/Website-logandoesthings.social-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://logandoesthings.tech"><img src="https://img.shields.io/badge/Website-logandoesthings.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/LoganDoesThings"><img src="https://img.shields.io/badge/LinkedIn-LoganDoesThings-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/LoganDoesThings"><img src="https://img.shields.io/badge/GitHub-LoganDoesThings-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
